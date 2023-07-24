@@ -8,3 +8,5 @@ Here are the features available:
 - The host's `~/.gitconfig` file is available as read-only
 - There is a nice looking bash prompt
 - The user isn't root but can use sudo without a password
+
+You can start this project in a **Docker Development Environment** by [clicking this link](https://open.docker.com/dashboard/dev-envs?url=git@github.com:ferdinandkeller/containerised-project-template.git).
