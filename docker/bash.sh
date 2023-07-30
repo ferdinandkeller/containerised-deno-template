@@ -20,3 +20,6 @@ __bash_prompt() {
     unset -f __bash_prompt
 }
 __bash_prompt
+
+export DENO_INSTALL="/home/ubuntu/.deno"
+export PATH="$DENO_INSTALL/bin:$PATH"
